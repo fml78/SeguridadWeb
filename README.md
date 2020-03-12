@@ -12,4 +12,4 @@
 
 [Certificados SSL para MariaDB](https://www.dropbox.com/s/r5hd4u870yraguw/Configuraci%C3%B3n%20de%20certificaci%C3%B3n%20SSL%20en%20el%20servidor%20de%20base%20de%20datos%20MariaDB.docx?dl=0)
 
-[Libro de prácticas] (https://www.dropbox.com/s/yol7wk0i1lxpc4u/2020-2-LibroPracticasTecnicasSeguridadAplicacionesWeb.pdf?dl=0)
+[Libro de prácticas](https://www.dropbox.com/s/yol7wk0i1lxpc4u/2020-2-LibroPracticasTecnicasSeguridadAplicacionesWeb.pdf?dl=0)
